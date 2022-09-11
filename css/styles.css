@@ -79,6 +79,7 @@ body, ul, li, p, a, label, input, div {
 }
 /* Contact map */
 .leaflet-control a, .leaflet-control { font-size: 10px !important;}
+.form-control { border: 1px solid #e8e8e8;}
 /* Carousel Hero */
 #template-hong-hero-carousel .carousel-indicators li {
   margin-top: -50px;
